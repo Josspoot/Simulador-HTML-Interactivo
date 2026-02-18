@@ -1,4 +1,5 @@
 # Simulador de Asignación de Memoria: Best Fit vs Worst Fit
+https://josspoot.github.io/Simulador-HTML-Interactivo/
 
 Este proyecto es una herramienta interactiva web diseñada para visualizar y comparar dos de los algoritmos más comunes de administración de memoria en Sistemas Operativos, el simulador permite observar en tiempo real cómo se fragmenta la memoria y cómo cada estrategia decide ubicar los procesos.
 
